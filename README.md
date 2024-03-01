@@ -1,2 +1,0 @@
-# ServiceComposition
-Algorithms and Examples
